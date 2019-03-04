@@ -15,7 +15,7 @@ libraries needed by this project are provided by the Anaconda distribution of Py
 issues using Python versions 3.*.
 
 # Project Motivation<a name="motivation"></a>
-In this project, ETL process: Extract, Transform and Load are presented with sample code and data from world bank 
+In this project, ETL process: Extract, Transform and Load are presented with sample code and data from world bank
 
 # File Descriptions<a name="files"></a>
 Extract folder contain data and notebook related to the extract part of ETL pipeline
